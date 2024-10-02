@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 
 # Dosya Okuma
-df = pd.read_excel('C:/Users/ASUS/Desktop/Yapay_Zeka_Giris/Pandas/teknolojik_urunler.xlsx')
+df = pd.read_excel('C:/Users/ASUS/Desktop/Yapay_Zeka_Giris/Pandas/xlsx_dosyaları/teknolojik_urunler.xlsx')
 
 # İlk 3 satırı getir
 # print(df.head())
