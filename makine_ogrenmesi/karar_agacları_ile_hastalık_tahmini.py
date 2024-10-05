@@ -14,7 +14,7 @@ from sklearn.metrics import accuracy_score
 # df = pd.DataFrame(data)
 
 # Veriyi Excel dosyasından okuma
-df = pd.read_excel('karar_agaci_veri_100.xlsx')
+df = pd.read_excel('C:/Users/ASUS/Desktop/Yapay_Zeka_Giris/makine_ogrenmesi/karar_agaci_veri_100.xlsx')
 
 # Girdi ve çıktı değişkenlerini belirleme
 X = df[['Yas', 'Kan_Basinci', 'Kolesterol']]
